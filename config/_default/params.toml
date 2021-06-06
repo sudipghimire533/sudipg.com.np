@@ -3,11 +3,10 @@
 titleSeparator = "-" # Title separator. Default to "-".
 
 description = "I am Sudip Ghimire, a programmer from Nepal. Here I write my ideas on technical as well as non-technical side of mine"
-# images = ["site-feature-image.jpg"]
 
-# logo = "images/logo.png" # Logo image. Default to "images/logo.webp".
-brand = ""
-# menusPosition = "left" # Menus position: right(default), left or center.
+logo = "/logo.webp" # Logo image. Default to "images/logo.webp".
+# brand = ""
+menusPosition = "right" # Menus position: right(default), left or center.
 
 palette = "teal" # Default palette. Optional.
 # palettes = ["blue", "blue gray", "brown"] # Available palettes. Default to ALL.
