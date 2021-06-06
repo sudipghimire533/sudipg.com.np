@@ -1,0 +1,70 @@
+baseURL = "http://localhost/"
+title = "Articles by Sudip Ghimire"
+theme = "hugo-theme-bootstrap"
+copyright = "Copyright © 2021-{year} Sudip ghimire. All Rights Reserved."
+
+# Multilingual mode
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+# Pagination
+paginate = 10
+# paginatePath = "page"
+
+# Disqus
+# disqusShortname = "yourdiscussshortname"
+
+# Google analytics
+# googleAnalytics = "UA-123-45"
+
+enableRobotsTXT = true
+
+enableEmoji = true
+
+
+
+# hasCJKLanguage = true # Turn on it if your content contains Chinese/Japanese/Korean Languages.
+
+[blackfriday]
+  hrefTargetBlank = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+    # weather to enable table of content
+    toc = true
+    # TOC is displayed if word count is greater than this value
+    tocWordCount = 1 # enable/disable from that page
+    # main sections
+    mainSections = ["posts"]
+    # title sparator
+    titleSeparator = "-"
+    # weather to enable comments
+    comment = true
+    # Date format
+    dateFormat = "Jan 2, 2006"
+    # weather to show powered by
+    poweredBy = false
+    # logo image
+    # logo = "/favico.ico"
+    # site theme
+    color = "dynamic"
+    # plattes to enable to choose
+    # palettes = ALL
+    # default platte
+    # palette = ""
+    # no of post to show
+    featuredPostCount = 5
+    recentPostCount = 5
+    relatedPostCount = 5
+    tagCount = 100
+    seriesCount = 100
+    # weather to enable full width
+    fullwidth = false
+

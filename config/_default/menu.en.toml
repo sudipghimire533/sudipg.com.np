@@ -1,0 +1,33 @@
+#[[main]]
+#  name = "Dropdown"
+#  identifier = "dropdown"
+#[[main]]
+#  parent = "dropdown"
+#  name = "Github"
+#  url = "https://github.com/razonyang/hugo-theme-bootstrap"
+#  pre = '<i class="fab fa-fw fa-github"></i>"
+
+[[main]]
+    name = "Tags"
+    identifier = "tags"
+    pre = "<i class='fas fa-fw fa-tags'></i>"
+    url = "/tags"
+    weight = 2
+[[main]]
+    name = "Series"
+    identifier = "series"
+    pre = "<i class='fas fa-fw fa-columns'></i>"
+    url = "/series"
+    weight = 3
+[[main]]
+    name = "Categories"
+    identifier = "categories"
+    pre = "<i class='fas fa-fw fa-folder'></i>"
+    url = "/categories"
+    weight = 4
+[[main]]
+    name = "Archives"
+    identifier = "archives"
+    pre = "<i class='fas fa-fw fa-file-archive'></i>"
+    url = "/archives"
+    weight = 5
