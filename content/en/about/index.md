@@ -12,7 +12,7 @@ draft: false
 ## Quick Links
 __*Here are quick links. You may like to visit [website](https://sudipghimire533.github.io) for more detailed info* and real active1 I may not be active in all links listed below. Contact me on my blog comments, email or website fourm to reach me quickly__
 
-* {{< icon class="fas fa-globe" >}} Website: https://sudipghimire.github.io
+* {{< icon class="fas fa-globe" >}} Website: [/about](/about)
 * {{< icon class="fab fa-github" >}} Github: https://github.com/sudipghimire533
 * {{< icon class="fab fa-stack-overflow" >}} Stackoverflow: https://stackoverflow.com/users/10084485/sudip-ghimire
 * {{< icon class="fab fa-stack-exchange" >}} Stackexchange: https://stackexchange.com/users/13962220/sudip-ghimire
