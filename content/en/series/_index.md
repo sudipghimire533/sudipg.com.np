@@ -1,3 +1,4 @@
 +++
 title = "Series"
+layout = "series"
 +++

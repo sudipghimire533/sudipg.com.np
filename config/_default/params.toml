@@ -1,32 +1,39 @@
 # mainSections = ["post", "posts"] # Default to ["posts"].
-
-titleSeparator = "-" # Title separator. Default to "-".
-
 description = "I am Sudip Ghimire, a programmer from Nepal. Here I write my ideas on technical as well as non-technical side of mine"
 
-logo = "/logo.webp" # Logo image. Default to "images/logo.webp".
-# brand = ""
 menusPosition = "right" # Menus position: right(default), left or center.
 
 palette = "teal" # Default palette. Optional.
 # palettes = ["blue", "blue gray", "brown"] # Available palettes. Default to ALL.
 # palettes = [] # Disable palette switcher.
 
-color = "dynamic" # light, dark or dynamic. Default to dynamic.
-
-fullWidth = false # Full width.
-# fixedHeader = false # Turn on/off fixed header.
-
-# dat# eFormat = "Jan 2, 2006"
+fixedHeader = false # Turn on/off fixed header.
 
 # Google Adsense
 googleAdsense = ""
 
-# math = true # Enable math globally.
+math = true # Enable math globally.
 toc = true # Disable TOC globally.
 # breadcrumb = false # Disable breadcrumb
-
-poweredBy = false # Whether to show powered by.
+tocWordCount = 1 # enable/disable in front matter
+# main sections
+mainSection = ["posts"]
+# string to seperate title in slug
+titleSeperator = "-"
+# weather to enable comment
+comment = true
+# Date Format
+dateFormat = "Jan 2, 2006"
+# Whether to show powered by.
+poweredBy = false 
+# logo image
+logo = "/logo.webp"
+# brand name
+brand = "Sudip"
+# site theme
+color = "dynamic"
+# weather to enable full width
+fullWidth = false
 
 featuredPostCount = 10 # The number of featured posts shown in sidebar.
 recentPostCount = 5 # The number of recent posts shown in sidebar.
