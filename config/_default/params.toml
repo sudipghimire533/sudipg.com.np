@@ -27,7 +27,7 @@ dateFormat = "Jan 2, 2006"
 # Whether to show powered by.
 poweredBy = false 
 # logo image
-logo = "/logo.webp"
+logo = "/images/logo.webp"
 # brand name
 brand = "Sudip"
 # site theme
