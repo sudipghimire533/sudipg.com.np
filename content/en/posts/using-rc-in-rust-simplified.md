@@ -13,7 +13,7 @@ toc: true
 
 # comment: true
 # math: false
-draft: true
+# draft: true
 ---
 
 The type `Rc<T>` provides shared ownership of a value of type `T`, allocated in the heap. Here we are going to look why we need Rc in Rust and using it to write a very simple example.
