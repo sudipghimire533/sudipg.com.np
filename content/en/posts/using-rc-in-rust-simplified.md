@@ -11,7 +11,7 @@ aliases: []
 images: ["images/featured-images/happy-rust-crab.png"]
 toc: true
 
-# comment: true
+comment: true
 # math: false
 # draft: true
 ---

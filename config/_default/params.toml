@@ -10,7 +10,7 @@ palette = "teal" # Default palette. Optional.
 fixedHeader = false # Turn on/off fixed header.
 
 # Google Adsense
-googleAdsense = ""
+# googleAdsense = ""
 
 math = true # Enable math globally.
 toc = true # Disable TOC globally.
