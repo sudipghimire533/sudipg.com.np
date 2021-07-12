@@ -5,7 +5,7 @@ copyright = "Copyright © 2021-{year} Sudip ghimire. All Rights Reserved."
 
 # Multilingual mode
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 # Pagination
 paginate = 10
