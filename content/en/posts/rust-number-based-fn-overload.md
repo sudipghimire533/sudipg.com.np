@@ -8,7 +8,7 @@ description: "Function overloading in rust using declarative macro"
 series: ["learning-rust"]
 slug: "rust-number-based-fn-overload"
 aliases: []
-images: ["featured-images/featured-images/happy-rust-crab.png"]
+images: ["images/featured-images/featured-images/happy-rust-crab.png"]
 toc: true
 comment: true
 
