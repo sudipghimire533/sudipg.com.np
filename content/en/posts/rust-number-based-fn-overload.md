@@ -15,6 +15,8 @@ comment: true
 ---
 Explore the basic idea of function overloading based on number of arguments in rust. For this purpose we make use of declarative macros to implement a basic overloaded add function.
 <!--more-->
+![Rust crab looks happy](/images/featured-images/happy-rust-crab.png)
+
 ## # Function overloading in general
 In very simple terms, function overloading is the facility provided by programming language to define and declare the function with same name but differing on type signature or number of argument.
 
