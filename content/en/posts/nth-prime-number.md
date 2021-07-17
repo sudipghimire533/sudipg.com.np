@@ -2,7 +2,7 @@
 ---
 title: "Finding nth Prime number"
 keywords: ["rust", "prime number", "eratosthenes"]
-date: 2021-07-12T18:59:35+05:45
+date: 2021-07-17T18:59:35+05:45
 tags: ["programming", "numerical"]
 categories: ["technical"]
 description: "How to find nth prime numbers using Eratosthenes algorithm in rust"
