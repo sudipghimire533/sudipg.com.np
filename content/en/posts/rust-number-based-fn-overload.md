@@ -11,6 +11,7 @@ aliases: []
 images: ["images/featured-images/happy-rust-crab.png"]
 toc: true
 comment: true
+math: false
 
 ---
 Explore the basic idea of function overloading based on number of arguments in rust. For this purpose we make use of declarative macros to implement a basic overloaded add function.

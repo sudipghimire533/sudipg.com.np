@@ -11,6 +11,7 @@ aliases: []
 images: ["images/featured-images/happy-rust-crab.png"]
 toc: true
 comment: true
+math: false
 
 ---
 Default argument allows us to call function omitting some paramater. When a argument is omitted provided default paramater is used. While rust does not support default argument we can make use of macro to achive similar functionality.
