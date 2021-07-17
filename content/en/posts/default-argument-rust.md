@@ -8,7 +8,7 @@ description: "Function with default argument in rust. Default argument allows us
 series: ["learning-rust"]
 slug: "default-argument-rust-using-macro"
 aliases: []
-images: ["images/featured-images/happy-rust-crab.png"]
+images: []
 toc: true
 comment: true
 math: false
