@@ -2,15 +2,16 @@
 title: "Function overloading in rust based on number of argument"
 keywords: ["rust", "sudip"]
 date: 2021-07-12T12:00:00+05:45
-tags: ["rust", "rust-macro", "function-overloading"]
+tags: ["rust", "rust-macro", "function-overloading", "programming"]
 categories: ["technical"]
 description: "Function overloading in rust using declarative macro"
 series: ["learning-rust"]
 slug: "rust-number-based-fn-overload"
 aliases: []
-images: ["images/featured-images/happy-rust-crab.png"]
+images: []
 toc: true
 comment: true
+math: false
 
 ---
 Explore the basic idea of function overloading based on number of arguments in rust. For this purpose we make use of declarative macros to implement a basic overloaded add function.

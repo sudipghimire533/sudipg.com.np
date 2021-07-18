@@ -8,7 +8,7 @@ description: "Here we will see why shall we use Rc with a simple example"
 series: ["learning-rust"]
 slug: "rc-in-rust-simplified"
 aliases: []
-images: ["images/featured-images/happy-rust-crab.png"]
+images: []
 toc: true
 
 comment: true
